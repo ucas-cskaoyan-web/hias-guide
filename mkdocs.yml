@@ -51,6 +51,7 @@ extra_css:
 - assets/stylesheets/custom.css
 - assets/stylesheets/leaflet.css
 extra_javascript:
+- assets/javascripts/navigation-mobile.js
 - assets/javascripts/echarts.min.js
 - assets/javascripts/wlgd-charts.js
 - assets/javascripts/leaflet.js
